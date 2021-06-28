@@ -1,7 +1,7 @@
 include common.def
 
 [all]
-CORENAME="JTF1DRM"
+CORENAME=JTF1DRM
 GAMETOP=jttora_game
 F1DREAM
 

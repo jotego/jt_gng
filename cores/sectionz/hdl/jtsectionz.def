@@ -1,6 +1,6 @@
 # Section Z macro file
 [all]
-CORENAME="JTSZ"
+CORENAME=JTSZ
 GAMETOP=jtsectionz_game
 JTFRAME_VERTICAL
 JTFRAME_MRA_DIP

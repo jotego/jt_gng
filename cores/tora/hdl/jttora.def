@@ -1,5 +1,5 @@
 include common.def
 
 [all]
-CORENAME="JTTORA"
+CORENAME=JTTORA
 GAMETOP=jttora_game
